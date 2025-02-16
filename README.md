@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm shawnleehocttq734
 
-<!--
-**shawnleehocttq734/shawnleehocttq734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎻 🎨 🏑 🛶 A designer in robotics 🎻 🎨 🏑 🛶
 
-Here are some ideas to get you started:
+## About Me
+🚵 🏑 💻 A keen learner of internet of things 🚵 🏑 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎱 🎮 🎮 🚣 A nerd in developer advocacy 🎱 🎮 🎮 🚣
+
+### Fun Facts
+🛶 🏸 🎺 📚 Exploring the world of data science 🛶 🏸 🎺 📚
+
+---
+🎯 🥋 ✨ 🎮 🛹 Thanks for visiting my profile! 🎣 🎪 🛶 🎪 🎱
